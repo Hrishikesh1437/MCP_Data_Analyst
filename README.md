@@ -139,13 +139,7 @@ Integration with databases (PostgreSQL, Neo4j, etc.)
 🪪 License
 MIT License © 2025 — Developed by Hrishikesh / BlackCoffer Training
 
-yaml
-Copy code
 
----
-
-Would you like me to also generate a matching `requirements.txt` (FastAPI + Uvicorn + Streamlit + Gemini + Pandas, etc.)?  
-That way, your environment setup will be consistent across systems.
 
 
 
