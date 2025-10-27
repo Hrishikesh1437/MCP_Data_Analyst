@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+git+https://github.com/modelcontextprotocol/python-sdk.git@main
+google-generativeai
+uvicorn
+fastapi
